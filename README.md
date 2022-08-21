@@ -1,4 +1,4 @@
-# mark09-FilmApp
+# mark09-MoviesApp
 
 Description : An app to view some of the famous Movies of different genres.
 
