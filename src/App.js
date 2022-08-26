@@ -215,7 +215,7 @@ export default function App() {
             </a>
           </li>
           <li class="list-item-inline">
-            <a class="link" href="">
+            <a class="link" href="https://twitter.com/rushi1799">
               twitter
             </a>
           </li>
